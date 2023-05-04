@@ -1,0 +1,15 @@
+bin/*
+pkg/*
+!.gitkeep
+
+.vendor
+
+*.o
+*.a
+*.so
+
+.env
+.swp
+.idea/
+.vscode/
+.tmp
