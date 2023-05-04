@@ -8,6 +8,8 @@
 1. Clone the repository and change to the project directory.
 
     ```bash
+    git clone https://github.com/jenishayadav/go-gin-e-market.git
+    cd go-gin-e-market
     ```
 
 2. Install dependencies.
